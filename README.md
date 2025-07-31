@@ -1,5 +1,3 @@
-<p align="center> <img src="https://pin.it/2CMixIbPb" alt="aboutme" /> </p>
-
 # 💫 About Me:
 Hi 👋, I'm Kithmini Ranasinghe  <br>
 🎓 Undergraduate at SLIIT, Sri Lanka  <br>
